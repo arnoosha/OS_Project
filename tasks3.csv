@@ -1,0 +1,6 @@
+task_id,arrival_time,deadline,value,cache_requirement,memory_requirement,frequency_requirement
+1,0,2,200,6,14,4
+2,0,1,10,6,14,4
+3,1,3,5,6,14,4
+4,1,4,200,6,14,4
+5,1,4,150,5,9,5
