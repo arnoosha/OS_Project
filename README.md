@@ -69,8 +69,3 @@ The project is designed as a teaching and experimentation tool. It helps underst
 - Modeling multi-core or distributed processors.  
 - Measuring performance metrics such as average lateness, processor utilization, or total value achieved.  
 
----
-
-## License
-
-This project is for educational use as part of an Operating Systems coursework.
